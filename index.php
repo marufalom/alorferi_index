@@ -20,15 +20,7 @@
 <h5>জ্ঞানের আলো ছড়িয়ে দিতে</h5>
 <h1>আলোর ফেরী</h1>
 <?php 
-
 include_once 'menu.php';
-// started by babul mirdha, date: 29 may
-$v=500;
-
-print  $v;
-
-$number = 500;
-
 ?>
 <div class="fb-like" data-href="https://www.facebook.com/Alorferi" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
