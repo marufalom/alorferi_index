@@ -1,6 +1,6 @@
 <p>
 <?php
-$menu = array("হোম"=>"home","সম্পর্কে"=>"home","যোগাযোগ"=>"home" );
+$menu = array("à¦¹à§‹à¦®"=>"home","à¦¸à¦®à§�à¦ªà¦°à§�à¦•à§‡"=>"about.php","à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦—"=>"home" );
 
 foreach ($menu as  $k =>  $v  ){
 	print "<a href='$v'>$k</a> | ";
