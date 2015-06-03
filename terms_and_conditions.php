@@ -1,11 +1,4 @@
-<html>
-<head>
- <meta charset="UTF-8">
- 
-<link rel="stylesheet" type="text/css" href="style.css"> 
- 
-</head>
-<body>
+
 <?php 
 include_once 'header.php';
 ?>
@@ -17,6 +10,7 @@ echo " ১। এক জন পাঠক প্রতি বার একটি 
 ৩। বইয়ের ভিতর কোন প্রকার দাগ দেয়া যাবে না । যদি কেউ বই নিয়ে ছিরে ফেলে বা পুরে যায় তাহলে  ঐ বইয়ের অনুরূপ বই অথবা সমমূল্য লাইব্রেরী  দিতে হবে । 
 	 ".'<br>';
 ?>
-</body>
 
-</html>
+<?php 
+include_once 'footer.php';
+?>
