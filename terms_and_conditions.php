@@ -1,20 +1,14 @@
 <html>
 <head>
  <meta charset="UTF-8">
-<style>
-
-body
-{
-background-color:  #d0e4fe;
-}
-
-</style>
+ 
+<link rel="stylesheet" type="text/css" href="style.css"> 
+ 
 </head>
 <body>
-
-<h1><center>আলোর ফেরী  </center></h1>
-
-</body>
+<?php 
+include_once 'header.php';
+?>
 <?php
 echo "পাঠকের জন্য শর্তাবলীঃ ".'<br>'.'<ul>'.'</u>';
 echo " নিম্নোক্ত নিয়মাবলী আগামী জুলাই ২০১৫ - জুন ২০১৬ পর্যন্ত কার্যকর থাকবে সমস্ত পাঠকের জন্যঃ .'<br>'";
@@ -23,3 +17,6 @@ echo " ১। এক জন পাঠক প্রতি বার একটি 
 ৩। বইয়ের ভিতর কোন প্রকার দাগ দেয়া যাবে না । যদি কেউ বই নিয়ে ছিরে ফেলে বা পুরে যায় তাহলে  ঐ বইয়ের অনুরূপ বই অথবা সমমূল্য লাইব্রেরী  দিতে হবে । 
 	 ".'<br>';
 ?>
+</body>
+
+</html>

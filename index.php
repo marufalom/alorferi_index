@@ -17,10 +17,9 @@
 
 
 <div align="center">
-<h5>জ্ঞানের আলো ছড়িয়ে দিতে</h5>
-<h1>আলোর ফেরী</h1>
+
 <?php 
-include_once 'menu.php';
+include_once 'header.php';
 ?>
 <div class="fb-like" data-href="https://www.facebook.com/Alorferi" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
