@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-// Started by Sabuj Karmaker
+
 body
 {
 background-color: #d0e4fe;
@@ -9,7 +9,6 @@ background-color: #d0e4fe;
 
 </style>
 </head>
-
 <body>
 
 <h1><center>আলোর ফেরী  </center></h1>
