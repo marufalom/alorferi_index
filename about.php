@@ -5,6 +5,7 @@ include_once 'header.php';
 ?>
 <html>
 <head>
+<link href="style.css" rel="stylesheet" type="text/css">
 </head>>
 <body>
 <h4 style="text-align:left">ধন্যবাদ সবাইকে এই সাইটে ভিজিট করার জন্য। এই সাইটটি 'আলোর ফেরী' নামক পাঠাগার এর পরিচিতি ও এর কার্যক্রম সম্পর্কে বিভিন্ন তথ্য তুলে ধরবে। <br>
