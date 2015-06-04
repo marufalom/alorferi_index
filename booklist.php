@@ -1,4 +1,5 @@
 <?php
+
 include_once 'header.php';
 ?>
 
@@ -8,10 +9,10 @@ include_once 'db_connecton.php';
 echo "<table>";
 print <<<EOD
 <tr>
-		<th>নং</th>	
-		<th> বইয়ের নাম</th>
-		<th> লেখক</th>
-		<th> প্রকাশক</th>
+		<th>à¦¨à¦‚</th>	
+		<th> à¦¬à¦‡à§Ÿà§‡à¦° à¦¨à¦¾à¦®</th>
+		<th> à¦²à§‡à¦–à¦•</th>
+		<th> à¦ªà§�à¦°à¦•à¦¾à¦¶à¦•</th>
 </tr>
 EOD;
 

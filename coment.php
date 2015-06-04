@@ -1,4 +1,5 @@
 <?php 
+echo "Today is " . date("Y/m/d") . "<br>";
 include_once 'header.php';
 ?>
 <h1>Put ur commber here.</h1>

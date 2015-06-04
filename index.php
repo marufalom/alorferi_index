@@ -1,14 +1,14 @@
 
 <?php 
+echo "Today is " . date("Y/m/d") . "<br>";
 include_once 'header.php';
+
 ?>
 <!-- Write ur code here -->
 
 
-<p>h sadfsdfjasd fasdf asdfasd fasdf sadf asldf sdfjasdf asdf
-asdfs
-adfasdfasdf
-a
+<h1> <center>
+Comming Soon.......
 
 
 <?php 
