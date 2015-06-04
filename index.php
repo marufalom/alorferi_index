@@ -5,10 +5,18 @@ include_once 'header.php';
 
 ?>
 <!-- Write ur code here -->
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1><marquee>Comming Soon......</marquee></h1>
+
+</body>
+</html>
 
 
-<h1> <center>
-Comming Soon.......
+ 
 
 
 <?php 
