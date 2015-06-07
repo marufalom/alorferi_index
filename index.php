@@ -11,7 +11,8 @@ include_once 'header.php';
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<h1><marquee>Comming Soon......আলোর ফেরী  </marquee></h1>
+
+<h1><marquee bgcolor="pink">শীঘ্রই আসিতেছে........আলোর ফেরী </marquee></h1> 
 <img alt="" src="books.GIF">
 
 
