@@ -12,11 +12,12 @@ include_once 'header.php';
 </head>
 <body>
 
-<h1><marquee bgcolor="pink">শীঘ্রই আসিতেছে........আলোর ফেরী </marquee></h1> 
-<img alt="" src="books.GIF">
+<h1><marquee direction ="right" bgcolor="violet">শীঘ্রই আসিতেছে........আলোর ফেরী </marquee></h1> 
+
+<h2> <font color="blue"> আলোর ফেরীর জনপ্রিয় বই সমূহ </h2>><img alt="" src="books.GIF">
 
 
-</body>
+</body> 
 </html>
 
 
