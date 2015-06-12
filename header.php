@@ -24,7 +24,7 @@
 <h1><font color = "white">আলোর ফেরী</h1>
 <p>
 <?php
-$menu = array("Home"=>"index.php","Books"=>"booklist.php","About"=>"about.php","Terms and Conditions"=>"terms_and_conditions.php","Contact"=>"contact.php" );
+$menu = array("Home"=>"index.php","Books"=>"booklist.php","Videos"=>"videos.php","About"=>"about.php","Terms and Conditions"=>"terms_and_conditions.php","Contact"=>"contact.php" );
 
 foreach ($menu as  $k =>  $v  ){
 	print "<a href='$v'>$k</a> | ";
